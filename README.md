@@ -1,4 +1,4 @@
-# LR--FoDS
+# LR-FoDS
 Assignment-2 FoDS
 
 Supervised learning models for insurance claim prediction.
